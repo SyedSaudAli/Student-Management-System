@@ -1,6 +1,6 @@
 {
-  "name": "syedsaudali-student-management-system",
-  "version": "1.0.1",
+  "name": "saud-sms",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.19",

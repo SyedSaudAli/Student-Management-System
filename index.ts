@@ -59,7 +59,7 @@ let payment_method = await inquirer.prompt([
   {
     name: "amount",
     type: "input",
-    message: "Transfer Monay",
+    message: "Transfer Money",
     validate: function (value) {
       if (value.trim() !== "") {
         return true;
